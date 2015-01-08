@@ -1,0 +1,6 @@
+# create an account on http://pubnub.com/
+# and put your credentials bellow.
+
+publish_key: 'pub-c-67b64f52-9ac9-42df-9803-55fc0a646b22'
+subscribe_key: 'sub-c-49d69172-3e94-11e4-8c81-02ee2ddab7fe'
+
